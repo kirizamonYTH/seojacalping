@@ -2,7 +2,7 @@ import time
 import requests
 
 # Konfigurasi token
-TARGET_TOKEN = "5tN42GEWvdfiNaD7keWekvgCMzGmAq9w7tCd9MZv2fqk"  # ganti ke token target
+TARGET_TOKEN = "Es9vMFrzaCERqLkGgRbGzmiXbKQPY5vkjog49zjNHTy"  # ganti ke token target
 SOL_MINT = "So11111111111111111111111111111111111111112"     # SOL token mint
 AMOUNT_SOL = 0.01                                            # 0.01 SOL
 BUY_THRESHOLD = 0.95
